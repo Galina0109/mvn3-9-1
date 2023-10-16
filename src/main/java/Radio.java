@@ -2,7 +2,7 @@ public class Radio {
 
     private int currentStation;
     private int currentVolume;
-    private int numberStation;
+    private int numberStation;ii\
 
     public Radio() {
         this.numberStation = 9;
